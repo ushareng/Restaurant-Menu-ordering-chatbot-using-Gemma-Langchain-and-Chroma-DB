@@ -9,3 +9,6 @@ We would be leveraging the power of LLMs. Google recently launched Gemma and we 
 Achieving the capability for a machine to fully comprehend the various ways humans might inquire about something and respond in natural language akin to a human represents, in my view, a comprehensive goal within the realm of Natural Language Processing (NLP).
 
 ![Gemma](https://github.com/ushareng/Restaurant-Menu-ordering-chatbot-using-Gemma-Langchain-and-Chroma-DB/assets/34335028/c63bfd00-9694-4410-881c-dbb92a88c98d)
+
+Demo at HuggingFace spaces 
+https://huggingface.co/spaces/tensorgirl/Restaurant-Chatbot
