@@ -12,3 +12,5 @@ Achieving the capability for a machine to fully comprehend the various ways huma
 
 Demo at HuggingFace spaces 
 https://huggingface.co/spaces/tensorgirl/Restaurant-Chatbot
+
+![2365c6f3](https://github.com/ushareng/Restaurant-Menu-ordering-chatbot-using-Gemma-Langchain-and-Chroma-DB/assets/34335028/c9292e3a-4bec-4206-a68f-be9215911588)
